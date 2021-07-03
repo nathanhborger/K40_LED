@@ -182,7 +182,7 @@
   )
 
   (module LRST-C190KGKT:LEDC1608X35N (layer F.Cu) (tedit 60DF65BE) (tstamp 60DFD00A)
-    (at 127.79375 48.41875 120)
+    (at 72 65 120)
     (path /60E07BD9)
     (fp_text reference D12 (at 1.14732 -1.573661 120) (layer F.SilkS)
       (effects (font (size 1.002882 1.002882) (thickness 0.15)))
@@ -209,7 +209,7 @@
   )
 
   (module LRST-C190KGKT:LEDC1608X35N (layer F.Cu) (tedit 60DF65BE) (tstamp 60DFCFF8)
-    (at 123.03125 50.8 150)
+    (at 69 68 150)
     (path /60E0569B)
     (fp_text reference D11 (at 1.14732 -1.573661 150) (layer F.SilkS)
       (effects (font (size 1.002882 1.002882) (thickness 0.15)))
@@ -263,7 +263,7 @@
   )
 
   (module LRST-C190KGKT:LEDC1608X35N (layer F.Cu) (tedit 60DF65BE) (tstamp 60DFCFD4)
-    (at 122.2375 64.29375 210)
+    (at 69 78 210)
     (path /60E07BD3)
     (fp_text reference D9 (at 1.14732 -1.573661 30) (layer F.SilkS)
       (effects (font (size 1.002882 1.002882) (thickness 0.15)))
@@ -290,7 +290,7 @@
   )
 
   (module LRST-C190KGKT:LEDC1608X35N (layer F.Cu) (tedit 60DF65BE) (tstamp 60DFCFC2)
-    (at 130.96875 69.05625 240)
+    (at 72 81 240)
     (path /60E05695)
     (fp_text reference D8 (at 1.14732 -1.573661 60) (layer F.SilkS)
       (effects (font (size 1.002882 1.002882) (thickness 0.15)))
@@ -344,7 +344,7 @@
   )
 
   (module LRST-C190KGKT:LEDC1608X35N (layer F.Cu) (tedit 60DF65BE) (tstamp 60DFCF9E)
-    (at 82 80.701481 300)
+    (at 82 81 300)
     (path /60E07BCD)
     (fp_text reference D6 (at 1.14732 -1.573661 120) (layer F.SilkS)
       (effects (font (size 1.002882 1.002882) (thickness 0.15)))
