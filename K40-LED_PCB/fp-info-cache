@@ -1,4 +1,4 @@
-19029300206193333
+19030926511197387
 12V_Pad
 12V_Supply_Pad
 
@@ -76306,6 +76306,13 @@ rotary encoder
 0
 5
 4
+SPMWH1228FD5WATUS3_FOOTPRINT
+LED_SPMWH1228FD5WARMSE
+
+
+0
+2
+2
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
