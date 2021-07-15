@@ -10,3 +10,12 @@ RESISTOR:
 https://www.digikey.com/en/products/detail/vishay-dale/CRCW0805200RJNEAHP/5326891
 
 SWITCH:
+
+
+VERSION 2:
+
+RESISTOR[]
+https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0805JT18R0/1711894
+
+LEDS[]
+https://www.digikey.com/en/products/detail/samsung-semiconductor-inc/SPMWH1228FD5WATUS3/5959071
