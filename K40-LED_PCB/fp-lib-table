@@ -3,4 +3,7 @@
   (lib (name LRST-C190KGKT)(type KiCad)(uri C:/Users/natha/Documents/GitHub/K40_LED/LRST-C190KGKT)(options "")(descr ""))
   (lib (name SPMWH1228FD5WATUS3_FOOTPRINT)(type KiCad)(uri C:/Users/natha/Documents/GitHub/K40_LED/SPMWH1228FD5WATUS3_FOOTPRINT)(options "")(descr ""))
   (lib (name 12V_Through_Hole)(type KiCad)(uri C:/Users/natha/Documents/GitHub/K40_LED/12V_Through_Hole.pretty)(options "")(descr ""))
+  (lib (name Cree_MX3AWT-A1-R250-000BE3)(type KiCad)(uri C:/Users/natha/Documents/GitHub/K40_LED/Cree_MX3AWT-A1-R250-000BE3)(options "")(descr ""))
+  (lib (name LDD-350HS)(type KiCad)(uri C:/Users/natha/Documents/GitHub/K40_LED/LDD-350HS)(options "")(descr ""))
+  (lib (name "you know")(type KiCad)(uri C:/Users/natha/Documents/GitHub/K40_LED/SPMWH1228FD5WATUS3_FOOTPRINT)(options "")(descr ""))
 )
