@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name LTST-C190KGKT)(type Legacy)(uri C:/Users/natha/Documents/GitHub/K40_LED/LRST-C190KGKT/LTST-C190KGKT.lib)(options "")(descr ""))
   (lib (name 12V_PAD_Symb)(type Legacy)(uri ${KIPRJMOD}/12V_PAD_Symb.lib)(options "")(descr ""))
+  (lib (name LDD-350HS_SYMBOL)(type Legacy)(uri C:/Users/natha/Documents/GitHub/K40_LED/LDD-350HS/LDD-350HS_SYMBOL.lib)(options "")(descr ""))
 )
