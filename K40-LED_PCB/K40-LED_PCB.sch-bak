@@ -162,15 +162,11 @@ F 3 "" H 9600 3500 50  0001 L BNN
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	3950 2350 4200 2350
-Wire Wire Line
 	4200 2825 4100 2825
 Wire Wire Line
 	4200 2825 4200 2875
 Wire Wire Line
 	4200 2875 4100 2875
-Wire Wire Line
-	3600 2350 3350 2350
 Wire Wire Line
 	3350 2350 3350 2825
 Wire Wire Line
@@ -792,4 +788,8 @@ F 3 "" H 10900 4750 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	10900 4700 10900 4750
+Wire Wire Line
+	3350 2350 3700 2350
+Wire Wire Line
+	3850 2350 4200 2350
 $EndSCHEMATC
