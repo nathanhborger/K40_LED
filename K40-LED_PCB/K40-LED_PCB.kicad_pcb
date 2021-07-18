@@ -2028,8 +2028,8 @@
     )
   )
 
-  (module Cree_MX3AWT-A1-R250-000BE3:Cree_MX3AWT-A1-R250-000BE3 (layer F.Cu) (tedit 60F2F205) (tstamp 60DFCF9E)
-    (at 99.823223 137.894291 135)
+  (module Cree_MX3AWT-A1-R250-000BE3:Cree_MX3AWT-A1-R250-000BE3 (layer F.Cu) (tedit 60F2F205) (tstamp 60F4D006)
+    (at 98.823223 136.894291 135)
     (path /60E07BCD)
     (fp_text reference D7 (at 2 1 135) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2063,8 +2063,8 @@
     (pad 65 thru_hole circle (at 2.0255 3.2 135) (size 0.4 0.4) (drill 0.2) (layers *.Cu B.Mask))
   )
 
-  (module Cree_MX3AWT-A1-R250-000BE3:Cree_MX3AWT-A1-R250-000BE3 (layer F.Cu) (tedit 60F2F205) (tstamp 60DFCF8C)
-    (at 74.613621 130.705127 45)
+  (module Cree_MX3AWT-A1-R250-000BE3:Cree_MX3AWT-A1-R250-000BE3 (layer F.Cu) (tedit 60F2F205) (tstamp 60F4CFBB)
+    (at 76.105709 129.823223 45)
     (path /60E0568F)
     (fp_text reference D6 (at 2 1 45) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
