@@ -5,6 +5,9 @@ LED Ring Origin Light for K40 Laser
 ## Schematic
 <img width="838" alt="Screen Shot 2022-01-10 at 8 48 32 PM" src="https://user-images.githubusercontent.com/75147239/148867185-e482ddc4-6f64-4e4b-98b2-358572556089.png">
 
+## PCB Layout
+<img width="856" alt="Screen Shot 2022-01-10 at 8 50 29 PM" src="https://user-images.githubusercontent.com/75147239/148867457-a01c4ecb-48a6-4dc1-a23f-5c861dd31c38.png">
+
 
 ## Parts List
 | QTY | PART | NOTES |
