@@ -2,7 +2,7 @@
 # K40_LED
 LED Ring Origin Light for K40 Laser.
 This device was designed with the intention to provide a solution to the K40's lack of origin detection/positioning.
-Placed at the back of the laser, and reflected through two mirrors, the light will shine on the working peice, making a very distinct appearance which simplifies and enables the user to identify the exact locatino of the laser head.
+Placed at the back of the laser, and reflected through two mirrors, the light will shine on the working peice, making a very distinct appearance which simplifies and enables the user to identify the exact locatin of the laser head.
 
 ## Schematic
 <img width="838" alt="Screen Shot 2022-01-10 at 8 48 32 PM" src="https://user-images.githubusercontent.com/75147239/148867185-e482ddc4-6f64-4e4b-98b2-358572556089.png">
