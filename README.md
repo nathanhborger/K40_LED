@@ -10,6 +10,10 @@ Placed at the back of the laser, and reflected through two mirrors, the light wi
 ## PCB Layout
 <img width="856" alt="Screen Shot 2022-01-10 at 8 50 29 PM" src="https://user-images.githubusercontent.com/75147239/148867457-a01c4ecb-48a6-4dc1-a23f-5c861dd31c38.png">
 
+## PCB
+![thumbnail_IMG_0565](https://user-images.githubusercontent.com/75147239/149195431-49326ff3-be15-46aa-b646-22b6f64d911a.jpeg)
+
+
 
 ## Parts List
 | QTY | PART | NOTES |
