@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LTST-C190KGKT")(type "Legacy")(uri "C:/Users/natha/Documents/Github/K40_LED/KiCAD/Components/LRST-C190KGKT/LTST-C190KGKT.lib")(options "")(descr ""))
+  (lib (name "LDD-350HS_SYMBOL")(type "Legacy")(uri "C:/Users/natha/Documents/Github/K40_LED/KiCAD/Components/LDD-350HS/LDD-350HS_SYMBOL.lib")(options "")(descr ""))
+  (lib (name "1776275-2")(type "KiCad")(uri "C:/Users/natha/Documents/Github/K40_LED/KiCAD/Components/2Block_Terminal_1776275_2/1776275-2.kicad_sym")(options "")(descr ""))
+)
